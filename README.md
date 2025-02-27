@@ -80,7 +80,7 @@ The application will be available at: `http://localhost:5000`
 Swagger API documentation is available at:
 
 ```
-http://localhost:8080/swagger-ui/index.html
+http://localhost:5000/swagger-ui/index.html
 ```
 
 ### Deployment
