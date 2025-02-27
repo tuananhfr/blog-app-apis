@@ -1,5 +1,0 @@
-package com.tuananhfr.blog.security;
-
-public class JwtAuthResponse {
-
-}
