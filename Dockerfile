@@ -5,7 +5,7 @@ FROM openjdk:21-jdk-slim
 WORKDIR /app
 
 # Copy the JAR file to the container
-COPY target/blog-app-apis.jar app.jar
+COPY target/blog-app-apis-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose port 5000
 EXPOSE 5000
