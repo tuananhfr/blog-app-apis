@@ -1,0 +1,12 @@
+package com.tuananhfr.blog.security;
+
+public class JwtAuthResponse {
+	
+	private String token;
+
+	public void setToken(String token) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

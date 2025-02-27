@@ -1,0 +1,5 @@
+package com.tuananhfr.blog.respositories;
+
+public class RoleRepo {
+
+}

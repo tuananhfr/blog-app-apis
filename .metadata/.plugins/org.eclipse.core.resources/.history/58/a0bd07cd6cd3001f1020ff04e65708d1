@@ -1,0 +1,5 @@
+package com.tuananhfr.blog.controllers;
+
+public class UserController {
+
+}

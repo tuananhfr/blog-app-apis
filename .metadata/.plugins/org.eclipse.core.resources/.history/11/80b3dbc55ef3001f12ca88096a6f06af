@@ -1,0 +1,6 @@
+package com.tuananhfr.blog.payloads;
+
+@Data
+public class JwtAuthRequest {
+
+}

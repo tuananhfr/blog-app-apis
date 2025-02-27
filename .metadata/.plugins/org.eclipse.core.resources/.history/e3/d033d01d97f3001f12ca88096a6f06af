@@ -1,0 +1,5 @@
+package com.tuananhfr.blog.exceptions;
+
+public class ApiException {
+
+}

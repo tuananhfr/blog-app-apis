@@ -1,0 +1,5 @@
+package com.tuananhfr.blog.security;
+
+public class CustomeUserDetailService {
+
+}

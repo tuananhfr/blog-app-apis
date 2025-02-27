@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=blog-app-apis/C:\/Users\/phamt\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.6.4.Final\/hibernate-core-6.6.4.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.6.4.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1736785807810"/>
+    <typeInfo handle="=blog-app-apis/C:\/Users\/phamt\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.6.4.Final\/hibernate-core-6.6.4.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.6.4.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(Dialect.class[Dialect" modifiers="1057" timestamp="1736785807810"/>
+    <typeInfo handle="=blog-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuananhfr.blog.services{PostService.java[PostService" modifiers="513" timestamp="1737502167893"/>
+    <typeInfo handle="=blog-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuananhfr.blog.services{FileService.java[FileService" modifiers="513" timestamp="1737538674046"/>
+    <typeInfo handle="=blog-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuananhfr.blog.services{CommentService.java[CommentService" modifiers="513" timestamp="1737587211096"/>
+    <typeInfo handle="=blog-app-apis/C:\/Program Files\/SpringTool\/sts-4.27.0.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\/jre\/lib\/jrt-fs.jar`java.xml=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/maven.pomderived=/true=/&lt;org.w3c.dom(Comment.class[Comment" modifiers="1537" timestamp="1736529389177"/>
+</typeInfoHistroy>

@@ -1,0 +1,23 @@
+package com.tuananhfr.blog.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.tuananhfr.blog.services.UserService;
+
+@RestController
+@RequestMapping("/api/users")
+public class UserController {
+	@Autowired
+	private UserService userService;
+	// POST - create user
+	@GetMapping("/")
+	
+	// PUT - update user
+	
+	// DELETE - delete user
+	
+	// GET - get user
+}
